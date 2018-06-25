@@ -1,14 +1,5 @@
 {
-  "name": "ostdotcom/ost-sdk-php",
-  "homepage": "https://kit.ost.com/",
-  "description": "The official OST PHP SDK",
-  "keywords": ["ost","simpletoken","sdk","php"],
-  "type": "library",
-  "license": "MIT",
-  "support": {
-    "forum": "https://help.ost.com/",
-    "issues": "https://github.com/OpenSTFoundation/ost-sdk-php/issues"
-  },
+  "name": "devenpateldp/ost-sdk-php",
   "autoload": {
     "psr-4": {
       "Lib\\": "src/Lib/",
@@ -16,7 +7,4 @@
       "": "src/"
     }
   },
-  "config": {
-    "optimize-autoloader": true
-  }
 }
