@@ -10,7 +10,7 @@
     "issues": "https://github.com/OpenSTFoundation/ost-sdk-php/issues"
   },
   "require": {
-    "php": ">=5.0",
+    "php": ">5",
     "guzzlehttp/guzzle": "~6.0"
   },
   "require-dev": {
