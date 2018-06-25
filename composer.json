@@ -5,6 +5,8 @@
   "keywords": ["ost","simpletoken","sdk","php"],
   "type": "library",
   "license": "MIT",
+  "minimum-stability": "master",
+  "prefer-stable": true  
   "support": {
     "forum": "https://help.ost.com/",
     "issues": "https://github.com/OpenSTFoundation/ost-sdk-php/issues"
