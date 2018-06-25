@@ -9,14 +9,6 @@
     "forum": "https://help.ost.com/",
     "issues": "https://github.com/OpenSTFoundation/ost-sdk-php/issues"
   },
-  "require": {
-    "php": ">=5.5.0",
-    "guzzlehttp/guzzle": "~6.0"
-  },
-  "require-dev": {
-    "vlucas/phpdotenv": "v2.4.0",
-    "phpunit/phpunit": "^4"
-  },
   "autoload": {
     "psr-4": {
       "Lib\\": "src/Lib/",
